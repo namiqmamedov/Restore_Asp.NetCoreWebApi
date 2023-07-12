@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2xZ43SiH9e4dOYW31qoGTXbXS75a2NMuDRWi/Au38EZ13aSO5OAZrN4u6o01Y3nMO5VjOM+M/aEd46KSrx+4Zw==",
+  "dgSpecHash": "ueMBZ5K96AeOzGOXUvqIMNfbFPjiZcguAeTvFdxxbhhYIq0h9A5ig94iIlFg9N+W7oxd39fxRAKz8EjqOI8TBg==",
   "success": true,
-  "projectFilePath": "D:\\repos\\front\\Restore\\API\\API.csproj",
+  "projectFilePath": "D:\\repos\\C#\\Restore\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Namiq\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Namiq\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.19\\microsoft.data.sqlite.core.6.0.19.nupkg.sha512",

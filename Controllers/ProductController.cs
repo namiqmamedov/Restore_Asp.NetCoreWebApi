@@ -5,33 +5,34 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using API.Data;
+using API.Entities;
+using Microsoft.EntityFrameworkCore;
 
 namespace API.Controllers
 {
-    [ApiController]
-    [Route("api/[controller]")]
-    public class ProductController : ControllerBase 
+    public class ProductController : BaseApiController 
     {
-        private readonly StoreContext context;
+        private readonly StoreContext _context;
         
         public ProductController(StoreContext context)
         {
-            this.context = context;
+            _context = context;
         }
 
         [HttpGet]
-        public ActionResult<List<Product>> GetProducts()
+        public async Task<ActionResult<List<Product>>> GetProducts()
         {
-            var products = context.Products.ToList();
 
-            return Ok(products);
+            return await _context.Products.ToListAsync();
         }
 
         [HttpGet("{id}")]
-
-        public ActionResult<Product> GetProduct(int? id)
+        public async Task<ActionResult<Product>> GetProduct(int? id)
         {
-            return context.Products.Find(id);
+            return await _context.Products.FindAsync(id);
+
+            //return await context.Products.FindAsync(id);
         }
     }
 }
