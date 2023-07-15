@@ -134,3 +134,15 @@ D:\repos\C#\Restore\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
 D:\repos\C#\Restore\API\obj\Debug\net6.0\API.csproj.CopyComplete
 D:\repos\C#\Restore\API\obj\Debug\net6.0\API.genruntimeconfig.cache
 D:\repos\C#\Restore\API\obj\Debug\net6.0\ref\API.dll
+D:\repos\C#\Restore\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\repos\C#\Restore\API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\repos\C#\Restore\API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\repos\C#\Restore\API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\repos\C#\Restore\API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\repos\C#\Restore\API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\repos\C#\Restore\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\repos\C#\Restore\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\repos\C#\Restore\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\repos\C#\Restore\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\repos\C#\Restore\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\repos\C#\Restore\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
