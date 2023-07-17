@@ -9,8 +9,11 @@ namespace API.Entities
     {
         public int ID { get; set; }
         public string BuyerID { get; set; }
-        public List<BasketItem> Items { get; set; } =  new(); // new List<BasketItem>();  ozu ozune initialize eliyerikki 
+        public List<BasketItem>  Items { get; set; } =  new(); // new List<BasketItem>();  ozu ozune initialize eliyerikki 
                                                              //teze tipden basket qaytarsin if same line just use new
+
+        public string PaymentIntentID { get; set; }
+        public string ClientSecret { get; set; }
 
         public void AddItem(Product product,int quantity)
         {
