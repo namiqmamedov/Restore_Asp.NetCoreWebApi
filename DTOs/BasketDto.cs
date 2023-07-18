@@ -10,5 +10,7 @@ namespace API.DTOs
         public int ID { get; set; }
         public string BuyerID { get; set; }
         public List<BasketItemDto> Items { get; set; }
+        public string PaymentIntentID { get; set; }
+        public string ClientSecret { get; set; }
     }
 }
