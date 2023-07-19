@@ -162,3 +162,5 @@ D:\repos\C#\Restore\API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.
 D:\repos\C#\Restore\API\bin\Debug\net6.0\API.staticwebassets.runtime.json
 D:\repos\C#\Restore\API\bin\Debug\net6.0\Npgsql.dll
 D:\repos\C#\Restore\API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\repos\C#\Restore\API\bin\Debug\net6.0\AutoMapper.dll
+D:\repos\C#\Restore\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
