@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WXFcszdQkmGbsC09TPFsbx7PrXjmBL3C0z44PEZJO1Mc8MTse6/4Xaf4l/MKaN22gEvu2ybN4UY4h01ywUzimw==",
+  "dgSpecHash": "waj+O51yakM419y+sPlQZP83hz54VKW8JHnJh7VzeJ/XR9bFzVJbvDNkpZ/IvRaE0m6AWomyzzsndxU7g3jp1A==",
   "success": true,
   "projectFilePath": "D:\\repos\\C#\\Restore\\API\\API.csproj",
   "expectedPackageFiles": [
@@ -39,6 +39,8 @@
     "C:\\Users\\Namiq\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Namiq\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\Namiq\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Namiq\\.nuget\\packages\\npgsql\\6.0.8\\npgsql.6.0.8.nupkg.sha512",
+    "C:\\Users\\Namiq\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\6.0.8\\npgsql.entityframeworkcore.postgresql.6.0.8.nupkg.sha512",
     "C:\\Users\\Namiq\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.2\\sqlitepclraw.bundle_e_sqlite3.2.1.2.nupkg.sha512",
     "C:\\Users\\Namiq\\.nuget\\packages\\sqlitepclraw.core\\2.1.2\\sqlitepclraw.core.2.1.2.nupkg.sha512",
     "C:\\Users\\Namiq\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.2\\sqlitepclraw.lib.e_sqlite3.2.1.2.nupkg.sha512",
