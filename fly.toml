@@ -1,0 +1,22 @@
+# fly.toml app configuration file generated for restoreindex on 2023-07-19T21:48:04+04:00
+#
+# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
+#
+
+app = "restoreindex"
+primary_region = "nrt"
+
+[build]
+  image = "namiq/restore:latest"
+
+[env]
+  ASPNETCORE_URLS="http://+:8080"
+  StripeSettings__PuslishableKey="pk_test_51NUy0FDAm9kYt48Yjdz2qvU8rSZWbBfZ3w98HEBRfnprUEYPKHfr5ani2GcDFcOVRlCIcyzNjIsJ5HSCovBQxSty00hS864rUc"
+
+[http_service]
+  internal_port = 8080
+  force_https = true
+  auto_stop_machines = true
+  auto_start_machines = true
+  min_machines_running = 0
+  processes = ["app"]
