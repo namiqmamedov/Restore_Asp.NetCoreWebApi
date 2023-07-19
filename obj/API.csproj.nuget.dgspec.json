@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repos\\C#\\Restore\\API\\API.csproj": {}
+    "d:\\repos\\C#\\Restore\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\repos\\C#\\Restore\\API\\API.csproj": {
+    "d:\\repos\\C#\\Restore\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\C#\\Restore\\API\\API.csproj",
+        "projectUniqueName": "d:\\repos\\C#\\Restore\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\repos\\C#\\Restore\\API\\API.csproj",
+        "projectPath": "d:\\repos\\C#\\Restore\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Namiq\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\C#\\Restore\\API\\obj\\",
+        "outputPath": "d:\\repos\\C#\\Restore\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Namiq\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,7 +21,6 @@
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,6 +42,10 @@
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[12.0.1, )"
+            },
+            "CloudinaryDotNet": {
+              "target": "Package",
+              "version": "[1.21.0, )"
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
