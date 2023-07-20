@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DIwJ9h/B7DpYXWNn+Ty9TbJK40gn7MOhrJk+8R/00/Jrk6byKXcd9ItmJrNYHNxc/k4QeITuFLaAmV0QwlhMmQ==",
+  "dgSpecHash": "fRg1WyKFVdkmrzlZygX6ENnNA+ITuxh0E/ermNPojD7cHxZl2jz20D0lhn+VhOJYDtzEYOnTzOzPGHq25N3ydw==",
   "success": true,
-  "projectFilePath": "d:\\repos\\C#\\Restore\\API\\API.csproj",
+  "projectFilePath": "D:\\repos\\C#\\Restore\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Namiq\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Namiq\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

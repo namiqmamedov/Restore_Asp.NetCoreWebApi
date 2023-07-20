@@ -15,7 +15,7 @@ namespace API.DTOs
        public string Description { get; set; } 
        [Required]
        public long Price { get; set; } 
-       public IFormFile PictureURL { get; set; }
+       public IFormFile File { get; set; }
        [Required]
        public string Type { get; set; }
        [Required]

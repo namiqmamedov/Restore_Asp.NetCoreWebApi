@@ -2768,11 +2768,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\repos\\C#\\Restore\\API\\API.csproj",
+      "projectUniqueName": "D:\\repos\\C#\\Restore\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "d:\\repos\\C#\\Restore\\API\\API.csproj",
+      "projectPath": "D:\\repos\\C#\\Restore\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Namiq\\.nuget\\packages\\",
-      "outputPath": "d:\\repos\\C#\\Restore\\API\\obj\\",
+      "outputPath": "D:\\repos\\C#\\Restore\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Namiq\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2782,6 +2782,7 @@
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
