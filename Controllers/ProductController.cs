@@ -93,7 +93,7 @@ namespace API.Controllers
 
         [Authorize(Roles = "Admin")]
         [HttpPut]
-        public async Task<ActionResult> UpdateProduct([FromForm]UpdateProductDto productDto)
+        public async Task<ActionResult<Product>> UpdateProduct([FromForm]UpdateProductDto productDto)
         {
             var product = await _context.Products.FindAsync(productDto.ID);
 
@@ -117,7 +117,7 @@ namespace API.Controllers
 
             var result = await _context.SaveChangesAsync() > 0;
             
-            if(result) return NoContent();
+            if(result) return Ok(product) ;
 
             return BadRequest(new ProblemDetails{Title = "Problem updating product"});
         }

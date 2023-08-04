@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jasFfbdW/dyfUPr2iSJvKgWfzfPEB1hnHnUWGa6eGeg=",
+  "Hash": "GGvofQXLiSj87WQCToAPhep3s5HaBBHRdW2f5mz+ou4=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -51,6 +51,23 @@
       "OriginalItemSpec": "wwwroot\\assets\\index-09904285.js"
     },
     {
+      "Identity": "D:\\repos\\C#\\Restore\\API\\wwwroot\\assets\\index-0b4223a3.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\C#\\Restore\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/index-0b4223a3.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-0b4223a3.js"
+    },
+    {
       "Identity": "D:\\repos\\C#\\Restore\\API\\wwwroot\\assets\\index-22308ea1.js",
       "SourceId": "API",
       "SourceType": "Discovered",
@@ -85,6 +102,40 @@
       "OriginalItemSpec": "wwwroot\\assets\\index-26e91a91.js"
     },
     {
+      "Identity": "D:\\repos\\C#\\Restore\\API\\wwwroot\\assets\\index-2e476f10.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\C#\\Restore\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/index-2e476f10.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-2e476f10.js"
+    },
+    {
+      "Identity": "D:\\repos\\C#\\Restore\\API\\wwwroot\\assets\\index-37562167.css",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\C#\\Restore\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/index-37562167.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-37562167.css"
+    },
+    {
       "Identity": "D:\\repos\\C#\\Restore\\API\\wwwroot\\assets\\index-399b0ebc.js",
       "SourceId": "API",
       "SourceType": "Discovered",
@@ -100,6 +151,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\index-399b0ebc.js"
+    },
+    {
+      "Identity": "D:\\repos\\C#\\Restore\\API\\wwwroot\\assets\\index-499ebf3b.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\C#\\Restore\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/index-499ebf3b.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-499ebf3b.js"
     },
     {
       "Identity": "D:\\repos\\C#\\Restore\\API\\wwwroot\\assets\\index-4e4deacb.js",
@@ -221,6 +289,23 @@
       "OriginalItemSpec": "wwwroot\\assets\\index-8f6e4670.js"
     },
     {
+      "Identity": "D:\\repos\\C#\\Restore\\API\\wwwroot\\assets\\index-95429b34.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\C#\\Restore\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/index-95429b34.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-95429b34.js"
+    },
+    {
       "Identity": "D:\\repos\\C#\\Restore\\API\\wwwroot\\assets\\index-a3bd571f.js",
       "SourceId": "API",
       "SourceType": "Discovered",
@@ -272,6 +357,23 @@
       "OriginalItemSpec": "wwwroot\\assets\\index-aa6ffc4b.js"
     },
     {
+      "Identity": "D:\\repos\\C#\\Restore\\API\\wwwroot\\assets\\index-ae5cbc13.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\C#\\Restore\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/index-ae5cbc13.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-ae5cbc13.js"
+    },
+    {
       "Identity": "D:\\repos\\C#\\Restore\\API\\wwwroot\\assets\\index-b9df48bc.js",
       "SourceId": "API",
       "SourceType": "Discovered",
@@ -289,6 +391,23 @@
       "OriginalItemSpec": "wwwroot\\assets\\index-b9df48bc.js"
     },
     {
+      "Identity": "D:\\repos\\C#\\Restore\\API\\wwwroot\\assets\\index-c238131a.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\C#\\Restore\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/index-c238131a.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-c238131a.js"
+    },
+    {
       "Identity": "D:\\repos\\C#\\Restore\\API\\wwwroot\\assets\\index-cec5d77f.js",
       "SourceId": "API",
       "SourceType": "Discovered",
@@ -304,6 +423,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\index-cec5d77f.js"
+    },
+    {
+      "Identity": "D:\\repos\\C#\\Restore\\API\\wwwroot\\assets\\index-d76d3eeb.js",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\C#\\Restore\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/index-d76d3eeb.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-d76d3eeb.js"
     },
     {
       "Identity": "D:\\repos\\C#\\Restore\\API\\wwwroot\\assets\\index-de332cf1.js",
@@ -389,6 +525,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\index-f7bbe4f3.css"
+    },
+    {
+      "Identity": "D:\\repos\\C#\\Restore\\API\\wwwroot\\assets\\logo-main-08e920ba.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\C#\\Restore\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "assets/logo-main-08e920ba.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\logo-main-08e920ba.png"
     },
     {
       "Identity": "D:\\repos\\C#\\Restore\\API\\wwwroot\\assets\\roboto-cyrillic-300-normal-47aa3bfa.woff2",
@@ -1273,6 +1426,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\hero3.jpg"
+    },
+    {
+      "Identity": "D:\\repos\\C#\\Restore\\API\\wwwroot\\images\\logo-main.png",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\C#\\Restore\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/logo-main.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo-main.png"
     },
     {
       "Identity": "D:\\repos\\C#\\Restore\\API\\wwwroot\\images\\logo.png",

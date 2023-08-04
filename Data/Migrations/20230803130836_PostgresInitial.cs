@@ -103,7 +103,8 @@ namespace API.Data.Migrations
                     PictureURL = table.Column<string>(type: "text", nullable: true),
                     Type = table.Column<string>(type: "text", nullable: true),
                     Brand = table.Column<string>(type: "text", nullable: true),
-                    QuantityInStock = table.Column<int>(type: "integer", nullable: false)
+                    QuantityInStock = table.Column<int>(type: "integer", nullable: false),
+                    PublicId = table.Column<string>(type: "text", nullable: true)
                 },
                 constraints: table =>
                 {
@@ -295,8 +296,8 @@ namespace API.Data.Migrations
                 columns: new[] { "Id", "ConcurrencyStamp", "Name", "NormalizedName" },
                 values: new object[,]
                 {
-                    { 1, "af05ae78-1ead-4dd3-adb9-15d3797053d7", "Member", "MEMBER" },
-                    { 2, "2552e868-21db-4cbf-b8f7-a0b00075ebef", "Admin", "ADMIN" }
+                    { 1, "4ececf8c-ea39-48a0-b5ee-a42cc9d4cea0", "Member", "MEMBER" },
+                    { 2, "f4fde304-6771-45a8-9d17-b399c3fcf65f", "Admin", "ADMIN" }
                 });
 
             migrationBuilder.CreateIndex(

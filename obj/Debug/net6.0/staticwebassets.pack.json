@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\assets\\index-09904285.js"
     },
     {
+      "Id": "D:\\repos\\C#\\Restore\\API\\wwwroot\\assets\\index-0b4223a3.js",
+      "PackagePath": "staticwebassets\\assets\\index-0b4223a3.js"
+    },
+    {
       "Id": "D:\\repos\\C#\\Restore\\API\\wwwroot\\assets\\index-22308ea1.js",
       "PackagePath": "staticwebassets\\assets\\index-22308ea1.js"
     },
@@ -17,8 +21,20 @@
       "PackagePath": "staticwebassets\\assets\\index-26e91a91.js"
     },
     {
+      "Id": "D:\\repos\\C#\\Restore\\API\\wwwroot\\assets\\index-2e476f10.js",
+      "PackagePath": "staticwebassets\\assets\\index-2e476f10.js"
+    },
+    {
+      "Id": "D:\\repos\\C#\\Restore\\API\\wwwroot\\assets\\index-37562167.css",
+      "PackagePath": "staticwebassets\\assets\\index-37562167.css"
+    },
+    {
       "Id": "D:\\repos\\C#\\Restore\\API\\wwwroot\\assets\\index-399b0ebc.js",
       "PackagePath": "staticwebassets\\assets\\index-399b0ebc.js"
+    },
+    {
+      "Id": "D:\\repos\\C#\\Restore\\API\\wwwroot\\assets\\index-499ebf3b.js",
+      "PackagePath": "staticwebassets\\assets\\index-499ebf3b.js"
     },
     {
       "Id": "D:\\repos\\C#\\Restore\\API\\wwwroot\\assets\\index-4e4deacb.js",
@@ -49,6 +65,10 @@
       "PackagePath": "staticwebassets\\assets\\index-8f6e4670.js"
     },
     {
+      "Id": "D:\\repos\\C#\\Restore\\API\\wwwroot\\assets\\index-95429b34.js",
+      "PackagePath": "staticwebassets\\assets\\index-95429b34.js"
+    },
+    {
       "Id": "D:\\repos\\C#\\Restore\\API\\wwwroot\\assets\\index-a3bd571f.js",
       "PackagePath": "staticwebassets\\assets\\index-a3bd571f.js"
     },
@@ -61,12 +81,24 @@
       "PackagePath": "staticwebassets\\assets\\index-aa6ffc4b.js"
     },
     {
+      "Id": "D:\\repos\\C#\\Restore\\API\\wwwroot\\assets\\index-ae5cbc13.js",
+      "PackagePath": "staticwebassets\\assets\\index-ae5cbc13.js"
+    },
+    {
       "Id": "D:\\repos\\C#\\Restore\\API\\wwwroot\\assets\\index-b9df48bc.js",
       "PackagePath": "staticwebassets\\assets\\index-b9df48bc.js"
     },
     {
+      "Id": "D:\\repos\\C#\\Restore\\API\\wwwroot\\assets\\index-c238131a.js",
+      "PackagePath": "staticwebassets\\assets\\index-c238131a.js"
+    },
+    {
       "Id": "D:\\repos\\C#\\Restore\\API\\wwwroot\\assets\\index-cec5d77f.js",
       "PackagePath": "staticwebassets\\assets\\index-cec5d77f.js"
+    },
+    {
+      "Id": "D:\\repos\\C#\\Restore\\API\\wwwroot\\assets\\index-d76d3eeb.js",
+      "PackagePath": "staticwebassets\\assets\\index-d76d3eeb.js"
     },
     {
       "Id": "D:\\repos\\C#\\Restore\\API\\wwwroot\\assets\\index-de332cf1.js",
@@ -87,6 +119,10 @@
     {
       "Id": "D:\\repos\\C#\\Restore\\API\\wwwroot\\assets\\index-f7bbe4f3.css",
       "PackagePath": "staticwebassets\\assets\\index-f7bbe4f3.css"
+    },
+    {
+      "Id": "D:\\repos\\C#\\Restore\\API\\wwwroot\\assets\\logo-main-08e920ba.png",
+      "PackagePath": "staticwebassets\\assets\\logo-main-08e920ba.png"
     },
     {
       "Id": "D:\\repos\\C#\\Restore\\API\\wwwroot\\assets\\roboto-cyrillic-300-normal-47aa3bfa.woff2",
@@ -295,6 +331,10 @@
     {
       "Id": "D:\\repos\\C#\\Restore\\API\\wwwroot\\images\\hero3.jpg",
       "PackagePath": "staticwebassets\\images\\hero3.jpg"
+    },
+    {
+      "Id": "D:\\repos\\C#\\Restore\\API\\wwwroot\\images\\logo-main.png",
+      "PackagePath": "staticwebassets\\images\\logo-main.png"
     },
     {
       "Id": "D:\\repos\\C#\\Restore\\API\\wwwroot\\images\\logo.png",

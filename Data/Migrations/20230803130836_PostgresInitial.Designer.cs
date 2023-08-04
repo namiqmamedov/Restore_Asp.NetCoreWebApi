@@ -12,7 +12,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace API.Data.Migrations
 {
     [DbContext(typeof(StoreContext))]
-    [Migration("20230719110259_PostgresInitial")]
+    [Migration("20230803130836_PostgresInitial")]
     partial class PostgresInitial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -181,6 +181,9 @@ namespace API.Data.Migrations
                     b.Property<long>("Price")
                         .HasColumnType("bigint");
 
+                    b.Property<string>("PublicId")
+                        .HasColumnType("text");
+
                     b.Property<int>("QuantityInStock")
                         .HasColumnType("integer");
 
@@ -224,14 +227,14 @@ namespace API.Data.Migrations
                         new
                         {
                             Id = 1,
-                            ConcurrencyStamp = "af05ae78-1ead-4dd3-adb9-15d3797053d7",
+                            ConcurrencyStamp = "4ececf8c-ea39-48a0-b5ee-a42cc9d4cea0",
                             Name = "Member",
                             NormalizedName = "MEMBER"
                         },
                         new
                         {
                             Id = 2,
-                            ConcurrencyStamp = "2552e868-21db-4cbf-b8f7-a0b00075ebef",
+                            ConcurrencyStamp = "f4fde304-6771-45a8-9d17-b399c3fcf65f",
                             Name = "Admin",
                             NormalizedName = "ADMIN"
                         });

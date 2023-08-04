@@ -8,7 +8,8 @@ namespace API.Controllers
     {
         public IActionResult Index()
         {
-            return PhysicalFile(Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "index.html"), "text/HTML"); // client to API  
+            return PhysicalFile(Path.Combine(Directory.GetCurrentDirectory(), 
+                "wwwroot", "index.html"), "text/HTML"); // client to API  
         }
     }
 }
